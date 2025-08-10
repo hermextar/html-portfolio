@@ -230,7 +230,7 @@ footer {
 
 /* 8) Email link styling */
 .email-link {
-  color: #0f172a;
+  color:var(--primary-dark);
 }
 
 .email-link:hover,
